@@ -60,6 +60,7 @@ body{
 .banner-page{
   padding-top:  7.5rem;
   width: 100%;
+  background-color: rgb(245 245 245);
   margin: 0 auto;
 }
 .footer{
@@ -571,6 +572,7 @@ img.img-no-item {
   width: 100%;
   display: flex;
   margin-top: 0.625rem;
+  background-color: white;
 }
 .bottom-banner-item {
   text-align: center;
