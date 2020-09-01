@@ -597,7 +597,7 @@ img.img-bottom-banner {
   padding: 0;
 }
 .welcome-package-banner{
-  background-image: url(/asset/img/welcome-package-banner.png);
+  background-image: url(../../asset/img/welcome-package-banner.png);
   height: 6.875rem;
   background-size: cover;
   background-position: 50%;
